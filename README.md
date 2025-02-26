@@ -15,7 +15,7 @@
 - 篇幅約 **300** 個中文字
 
 ### 3. 截止時間
-📅 **2024/03/13 14:20**
+📅 **2025/03/13 14:20**
 
 ### 4. 作業繳交步驟
 請見[HW1繳交步驟說明](https://docs.google.com/presentation/d/19ja2dncAIadsd4y4gyfZ_hO6sDu9yeHpoYJI5hfoW_4/edit?usp=sharing)
